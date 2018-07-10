@@ -1,0 +1,7 @@
+C:\Users\Tech Academy Student\Desktop\techacademy\projects\StudentDailyReportDemo\StudentDailyReportDemo\bin\Debug\StudentDailyReportDemo.exe.config
+C:\Users\Tech Academy Student\Desktop\techacademy\projects\StudentDailyReportDemo\StudentDailyReportDemo\bin\Debug\StudentDailyReportDemo.exe
+C:\Users\Tech Academy Student\Desktop\techacademy\projects\StudentDailyReportDemo\StudentDailyReportDemo\bin\Debug\StudentDailyReportDemo.pdb
+C:\Users\Tech Academy Student\Desktop\techacademy\projects\StudentDailyReportDemo\StudentDailyReportDemo\obj\Debug\StudentDailyReportDemo.csproj.CoreCompileInputs.cache
+C:\Users\Tech Academy Student\Desktop\techacademy\projects\StudentDailyReportDemo\StudentDailyReportDemo\obj\Debug\StudentDailyReportDemo.exe
+C:\Users\Tech Academy Student\Desktop\techacademy\projects\StudentDailyReportDemo\StudentDailyReportDemo\obj\Debug\StudentDailyReportDemo.pdb
+C:\Users\Tech Academy Student\Desktop\techacademy\projects\StudentDailyReportDemo\StudentDailyReportDemo\obj\Debug\StudentDailyReportDemo.csprojResolveAssemblyReference.cache

@@ -1,0 +1,11 @@
+C:\Users\Tech Academy Student\Desktop\techacademy\projects\MathConsoleDemo\MathConsoleDemo\bin\Debug\netcoreapp2.0\MathConsoleDemo.deps.json
+C:\Users\Tech Academy Student\Desktop\techacademy\projects\MathConsoleDemo\MathConsoleDemo\bin\Debug\netcoreapp2.0\MathConsoleDemo.runtimeconfig.json
+C:\Users\Tech Academy Student\Desktop\techacademy\projects\MathConsoleDemo\MathConsoleDemo\bin\Debug\netcoreapp2.0\MathConsoleDemo.runtimeconfig.dev.json
+C:\Users\Tech Academy Student\Desktop\techacademy\projects\MathConsoleDemo\MathConsoleDemo\bin\Debug\netcoreapp2.0\MathConsoleDemo.dll
+C:\Users\Tech Academy Student\Desktop\techacademy\projects\MathConsoleDemo\MathConsoleDemo\bin\Debug\netcoreapp2.0\MathConsoleDemo.pdb
+C:\Users\Tech Academy Student\Desktop\techacademy\projects\MathConsoleDemo\MathConsoleDemo\obj\Debug\netcoreapp2.0\MathConsoleDemo.csprojResolveAssemblyReference.cache
+C:\Users\Tech Academy Student\Desktop\techacademy\projects\MathConsoleDemo\MathConsoleDemo\obj\Debug\netcoreapp2.0\MathConsoleDemo.csproj.CoreCompileInputs.cache
+C:\Users\Tech Academy Student\Desktop\techacademy\projects\MathConsoleDemo\MathConsoleDemo\obj\Debug\netcoreapp2.0\MathConsoleDemo.AssemblyInfoInputs.cache
+C:\Users\Tech Academy Student\Desktop\techacademy\projects\MathConsoleDemo\MathConsoleDemo\obj\Debug\netcoreapp2.0\MathConsoleDemo.AssemblyInfo.cs
+C:\Users\Tech Academy Student\Desktop\techacademy\projects\MathConsoleDemo\MathConsoleDemo\obj\Debug\netcoreapp2.0\MathConsoleDemo.dll
+C:\Users\Tech Academy Student\Desktop\techacademy\projects\MathConsoleDemo\MathConsoleDemo\obj\Debug\netcoreapp2.0\MathConsoleDemo.pdb

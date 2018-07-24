@@ -1,0 +1,11 @@
+C:\Users\Tech Academy Student\Desktop\techacademy\projects\IncomeComparisonDemo\IncomeComparisonDemo\bin\Debug\netcoreapp2.0\IncomeComparisonDemo.deps.json
+C:\Users\Tech Academy Student\Desktop\techacademy\projects\IncomeComparisonDemo\IncomeComparisonDemo\bin\Debug\netcoreapp2.0\IncomeComparisonDemo.runtimeconfig.json
+C:\Users\Tech Academy Student\Desktop\techacademy\projects\IncomeComparisonDemo\IncomeComparisonDemo\bin\Debug\netcoreapp2.0\IncomeComparisonDemo.runtimeconfig.dev.json
+C:\Users\Tech Academy Student\Desktop\techacademy\projects\IncomeComparisonDemo\IncomeComparisonDemo\bin\Debug\netcoreapp2.0\IncomeComparisonDemo.dll
+C:\Users\Tech Academy Student\Desktop\techacademy\projects\IncomeComparisonDemo\IncomeComparisonDemo\bin\Debug\netcoreapp2.0\IncomeComparisonDemo.pdb
+C:\Users\Tech Academy Student\Desktop\techacademy\projects\IncomeComparisonDemo\IncomeComparisonDemo\obj\Debug\netcoreapp2.0\IncomeComparisonDemo.csprojResolveAssemblyReference.cache
+C:\Users\Tech Academy Student\Desktop\techacademy\projects\IncomeComparisonDemo\IncomeComparisonDemo\obj\Debug\netcoreapp2.0\IncomeComparisonDemo.csproj.CoreCompileInputs.cache
+C:\Users\Tech Academy Student\Desktop\techacademy\projects\IncomeComparisonDemo\IncomeComparisonDemo\obj\Debug\netcoreapp2.0\IncomeComparisonDemo.AssemblyInfoInputs.cache
+C:\Users\Tech Academy Student\Desktop\techacademy\projects\IncomeComparisonDemo\IncomeComparisonDemo\obj\Debug\netcoreapp2.0\IncomeComparisonDemo.AssemblyInfo.cs
+C:\Users\Tech Academy Student\Desktop\techacademy\projects\IncomeComparisonDemo\IncomeComparisonDemo\obj\Debug\netcoreapp2.0\IncomeComparisonDemo.dll
+C:\Users\Tech Academy Student\Desktop\techacademy\projects\IncomeComparisonDemo\IncomeComparisonDemo\obj\Debug\netcoreapp2.0\IncomeComparisonDemo.pdb

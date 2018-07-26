@@ -1,0 +1,11 @@
+C:\Users\Tech Academy Student\Desktop\techacademy\projects\InsuranceApprovalQuestionire\InsuranceApprovalQuestionire\bin\Debug\netcoreapp2.0\InsuranceApprovalQuestionire.deps.json
+C:\Users\Tech Academy Student\Desktop\techacademy\projects\InsuranceApprovalQuestionire\InsuranceApprovalQuestionire\bin\Debug\netcoreapp2.0\InsuranceApprovalQuestionire.runtimeconfig.json
+C:\Users\Tech Academy Student\Desktop\techacademy\projects\InsuranceApprovalQuestionire\InsuranceApprovalQuestionire\bin\Debug\netcoreapp2.0\InsuranceApprovalQuestionire.runtimeconfig.dev.json
+C:\Users\Tech Academy Student\Desktop\techacademy\projects\InsuranceApprovalQuestionire\InsuranceApprovalQuestionire\bin\Debug\netcoreapp2.0\InsuranceApprovalQuestionire.dll
+C:\Users\Tech Academy Student\Desktop\techacademy\projects\InsuranceApprovalQuestionire\InsuranceApprovalQuestionire\bin\Debug\netcoreapp2.0\InsuranceApprovalQuestionire.pdb
+C:\Users\Tech Academy Student\Desktop\techacademy\projects\InsuranceApprovalQuestionire\InsuranceApprovalQuestionire\obj\Debug\netcoreapp2.0\InsuranceApprovalQuestionire.csprojResolveAssemblyReference.cache
+C:\Users\Tech Academy Student\Desktop\techacademy\projects\InsuranceApprovalQuestionire\InsuranceApprovalQuestionire\obj\Debug\netcoreapp2.0\InsuranceApprovalQuestionire.csproj.CoreCompileInputs.cache
+C:\Users\Tech Academy Student\Desktop\techacademy\projects\InsuranceApprovalQuestionire\InsuranceApprovalQuestionire\obj\Debug\netcoreapp2.0\InsuranceApprovalQuestionire.AssemblyInfoInputs.cache
+C:\Users\Tech Academy Student\Desktop\techacademy\projects\InsuranceApprovalQuestionire\InsuranceApprovalQuestionire\obj\Debug\netcoreapp2.0\InsuranceApprovalQuestionire.AssemblyInfo.cs
+C:\Users\Tech Academy Student\Desktop\techacademy\projects\InsuranceApprovalQuestionire\InsuranceApprovalQuestionire\obj\Debug\netcoreapp2.0\InsuranceApprovalQuestionire.dll
+C:\Users\Tech Academy Student\Desktop\techacademy\projects\InsuranceApprovalQuestionire\InsuranceApprovalQuestionire\obj\Debug\netcoreapp2.0\InsuranceApprovalQuestionire.pdb

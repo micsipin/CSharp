@@ -1,0 +1,11 @@
+C:\Users\Tech Academy Student\Desktop\techacademy\projects\InsuranceApprovalQuestionireDemo\InsuranceApprovalQuestionire\bin\Debug\netcoreapp2.0\InsuranceApprovalQuestionireDemo.deps.json
+C:\Users\Tech Academy Student\Desktop\techacademy\projects\InsuranceApprovalQuestionireDemo\InsuranceApprovalQuestionire\bin\Debug\netcoreapp2.0\InsuranceApprovalQuestionireDemo.runtimeconfig.json
+C:\Users\Tech Academy Student\Desktop\techacademy\projects\InsuranceApprovalQuestionireDemo\InsuranceApprovalQuestionire\bin\Debug\netcoreapp2.0\InsuranceApprovalQuestionireDemo.runtimeconfig.dev.json
+C:\Users\Tech Academy Student\Desktop\techacademy\projects\InsuranceApprovalQuestionireDemo\InsuranceApprovalQuestionire\bin\Debug\netcoreapp2.0\InsuranceApprovalQuestionireDemo.dll
+C:\Users\Tech Academy Student\Desktop\techacademy\projects\InsuranceApprovalQuestionireDemo\InsuranceApprovalQuestionire\bin\Debug\netcoreapp2.0\InsuranceApprovalQuestionireDemo.pdb
+C:\Users\Tech Academy Student\Desktop\techacademy\projects\InsuranceApprovalQuestionireDemo\InsuranceApprovalQuestionire\obj\Debug\netcoreapp2.0\InsuranceApprovalQuestionireDemo.csprojResolveAssemblyReference.cache
+C:\Users\Tech Academy Student\Desktop\techacademy\projects\InsuranceApprovalQuestionireDemo\InsuranceApprovalQuestionire\obj\Debug\netcoreapp2.0\InsuranceApprovalQuestionireDemo.csproj.CoreCompileInputs.cache
+C:\Users\Tech Academy Student\Desktop\techacademy\projects\InsuranceApprovalQuestionireDemo\InsuranceApprovalQuestionire\obj\Debug\netcoreapp2.0\InsuranceApprovalQuestionireDemo.AssemblyInfoInputs.cache
+C:\Users\Tech Academy Student\Desktop\techacademy\projects\InsuranceApprovalQuestionireDemo\InsuranceApprovalQuestionire\obj\Debug\netcoreapp2.0\InsuranceApprovalQuestionireDemo.AssemblyInfo.cs
+C:\Users\Tech Academy Student\Desktop\techacademy\projects\InsuranceApprovalQuestionireDemo\InsuranceApprovalQuestionire\obj\Debug\netcoreapp2.0\InsuranceApprovalQuestionireDemo.dll
+C:\Users\Tech Academy Student\Desktop\techacademy\projects\InsuranceApprovalQuestionireDemo\InsuranceApprovalQuestionire\obj\Debug\netcoreapp2.0\InsuranceApprovalQuestionireDemo.pdb

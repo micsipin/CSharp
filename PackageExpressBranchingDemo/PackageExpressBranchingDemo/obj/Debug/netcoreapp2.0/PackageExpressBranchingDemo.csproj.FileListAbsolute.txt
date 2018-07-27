@@ -1,0 +1,11 @@
+C:\Users\Tech Academy Student\Desktop\techacademy\projects\PackageExpressBranchingDemo\PackageExpressBranchingDemo\bin\Debug\netcoreapp2.0\PackageExpressBranchingDemo.deps.json
+C:\Users\Tech Academy Student\Desktop\techacademy\projects\PackageExpressBranchingDemo\PackageExpressBranchingDemo\bin\Debug\netcoreapp2.0\PackageExpressBranchingDemo.runtimeconfig.json
+C:\Users\Tech Academy Student\Desktop\techacademy\projects\PackageExpressBranchingDemo\PackageExpressBranchingDemo\bin\Debug\netcoreapp2.0\PackageExpressBranchingDemo.runtimeconfig.dev.json
+C:\Users\Tech Academy Student\Desktop\techacademy\projects\PackageExpressBranchingDemo\PackageExpressBranchingDemo\bin\Debug\netcoreapp2.0\PackageExpressBranchingDemo.dll
+C:\Users\Tech Academy Student\Desktop\techacademy\projects\PackageExpressBranchingDemo\PackageExpressBranchingDemo\bin\Debug\netcoreapp2.0\PackageExpressBranchingDemo.pdb
+C:\Users\Tech Academy Student\Desktop\techacademy\projects\PackageExpressBranchingDemo\PackageExpressBranchingDemo\obj\Debug\netcoreapp2.0\PackageExpressBranchingDemo.csprojResolveAssemblyReference.cache
+C:\Users\Tech Academy Student\Desktop\techacademy\projects\PackageExpressBranchingDemo\PackageExpressBranchingDemo\obj\Debug\netcoreapp2.0\PackageExpressBranchingDemo.csproj.CoreCompileInputs.cache
+C:\Users\Tech Academy Student\Desktop\techacademy\projects\PackageExpressBranchingDemo\PackageExpressBranchingDemo\obj\Debug\netcoreapp2.0\PackageExpressBranchingDemo.AssemblyInfoInputs.cache
+C:\Users\Tech Academy Student\Desktop\techacademy\projects\PackageExpressBranchingDemo\PackageExpressBranchingDemo\obj\Debug\netcoreapp2.0\PackageExpressBranchingDemo.AssemblyInfo.cs
+C:\Users\Tech Academy Student\Desktop\techacademy\projects\PackageExpressBranchingDemo\PackageExpressBranchingDemo\obj\Debug\netcoreapp2.0\PackageExpressBranchingDemo.dll
+C:\Users\Tech Academy Student\Desktop\techacademy\projects\PackageExpressBranchingDemo\PackageExpressBranchingDemo\obj\Debug\netcoreapp2.0\PackageExpressBranchingDemo.pdb

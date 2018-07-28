@@ -1,0 +1,11 @@
+C:\Users\Tech Academy Student\Desktop\techacademy\projects\ConcatConvertStringBuilderDemo\ConcatConvertStringBuilderDemo\bin\Debug\netcoreapp2.0\ConcatConvertStringBuilderDemo.deps.json
+C:\Users\Tech Academy Student\Desktop\techacademy\projects\ConcatConvertStringBuilderDemo\ConcatConvertStringBuilderDemo\bin\Debug\netcoreapp2.0\ConcatConvertStringBuilderDemo.runtimeconfig.json
+C:\Users\Tech Academy Student\Desktop\techacademy\projects\ConcatConvertStringBuilderDemo\ConcatConvertStringBuilderDemo\bin\Debug\netcoreapp2.0\ConcatConvertStringBuilderDemo.runtimeconfig.dev.json
+C:\Users\Tech Academy Student\Desktop\techacademy\projects\ConcatConvertStringBuilderDemo\ConcatConvertStringBuilderDemo\bin\Debug\netcoreapp2.0\ConcatConvertStringBuilderDemo.dll
+C:\Users\Tech Academy Student\Desktop\techacademy\projects\ConcatConvertStringBuilderDemo\ConcatConvertStringBuilderDemo\bin\Debug\netcoreapp2.0\ConcatConvertStringBuilderDemo.pdb
+C:\Users\Tech Academy Student\Desktop\techacademy\projects\ConcatConvertStringBuilderDemo\ConcatConvertStringBuilderDemo\obj\Debug\netcoreapp2.0\ConcatConvertStringBuilderDemo.csprojResolveAssemblyReference.cache
+C:\Users\Tech Academy Student\Desktop\techacademy\projects\ConcatConvertStringBuilderDemo\ConcatConvertStringBuilderDemo\obj\Debug\netcoreapp2.0\ConcatConvertStringBuilderDemo.csproj.CoreCompileInputs.cache
+C:\Users\Tech Academy Student\Desktop\techacademy\projects\ConcatConvertStringBuilderDemo\ConcatConvertStringBuilderDemo\obj\Debug\netcoreapp2.0\ConcatConvertStringBuilderDemo.AssemblyInfoInputs.cache
+C:\Users\Tech Academy Student\Desktop\techacademy\projects\ConcatConvertStringBuilderDemo\ConcatConvertStringBuilderDemo\obj\Debug\netcoreapp2.0\ConcatConvertStringBuilderDemo.AssemblyInfo.cs
+C:\Users\Tech Academy Student\Desktop\techacademy\projects\ConcatConvertStringBuilderDemo\ConcatConvertStringBuilderDemo\obj\Debug\netcoreapp2.0\ConcatConvertStringBuilderDemo.dll
+C:\Users\Tech Academy Student\Desktop\techacademy\projects\ConcatConvertStringBuilderDemo\ConcatConvertStringBuilderDemo\obj\Debug\netcoreapp2.0\ConcatConvertStringBuilderDemo.pdb

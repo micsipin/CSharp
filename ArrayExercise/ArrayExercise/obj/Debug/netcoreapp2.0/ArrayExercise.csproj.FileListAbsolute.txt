@@ -1,0 +1,11 @@
+C:\Users\Tech Academy Student\Desktop\techacademy\projects\ArrayExercise\ArrayExercise\obj\Debug\netcoreapp2.0\ArrayExercise.csprojResolveAssemblyReference.cache
+C:\Users\Tech Academy Student\Desktop\techacademy\projects\ArrayExercise\ArrayExercise\obj\Debug\netcoreapp2.0\ArrayExercise.csproj.CoreCompileInputs.cache
+C:\Users\Tech Academy Student\Desktop\techacademy\projects\ArrayExercise\ArrayExercise\obj\Debug\netcoreapp2.0\ArrayExercise.AssemblyInfoInputs.cache
+C:\Users\Tech Academy Student\Desktop\techacademy\projects\ArrayExercise\ArrayExercise\obj\Debug\netcoreapp2.0\ArrayExercise.AssemblyInfo.cs
+C:\Users\Tech Academy Student\Desktop\techacademy\projects\ArrayExercise\ArrayExercise\bin\Debug\netcoreapp2.0\ArrayExercise.deps.json
+C:\Users\Tech Academy Student\Desktop\techacademy\projects\ArrayExercise\ArrayExercise\bin\Debug\netcoreapp2.0\ArrayExercise.runtimeconfig.json
+C:\Users\Tech Academy Student\Desktop\techacademy\projects\ArrayExercise\ArrayExercise\bin\Debug\netcoreapp2.0\ArrayExercise.runtimeconfig.dev.json
+C:\Users\Tech Academy Student\Desktop\techacademy\projects\ArrayExercise\ArrayExercise\bin\Debug\netcoreapp2.0\ArrayExercise.dll
+C:\Users\Tech Academy Student\Desktop\techacademy\projects\ArrayExercise\ArrayExercise\bin\Debug\netcoreapp2.0\ArrayExercise.pdb
+C:\Users\Tech Academy Student\Desktop\techacademy\projects\ArrayExercise\ArrayExercise\obj\Debug\netcoreapp2.0\ArrayExercise.dll
+C:\Users\Tech Academy Student\Desktop\techacademy\projects\ArrayExercise\ArrayExercise\obj\Debug\netcoreapp2.0\ArrayExercise.pdb

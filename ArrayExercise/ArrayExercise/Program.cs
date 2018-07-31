@@ -13,7 +13,7 @@ namespace ArrayExercise
 
         static void Index1()
         {
-            string[] strA = { "red", "yellow", "blue", "purple", "brown", "aqua", "green", "black" }; // index 0 starts at black, index 1 is green and so on
+            string[] strA = new string[] { "red", "yellow", "blue", "purple", "brown", "aqua", "green", "black" }; // index 0 starts at black, index 1 is green and so on
             Console.WriteLine("Choose an INDEX from 0 to 8");
             int sIndex = int.Parse(Console.ReadLine());
             if (sIndex > 8)
@@ -21,11 +21,11 @@ namespace ArrayExercise
             {
                 Console.WriteLine("invalid INDEX. Last chance. \nPlease choose INDEX 0 thru INDEX 8");
                 sIndex = int.Parse(Console.ReadLine());
-                Console.WriteLine(strA[strA.Length - sIndex]);
+                Console.WriteLine(strA[sIndex]);
             }
             else
             {
-                Console.WriteLine(strA[strA.Length - sIndex]);
+                Console.WriteLine(strA[sIndex]);
             }
 
         }
@@ -39,27 +39,26 @@ namespace ArrayExercise
             {
                 Console.WriteLine("invalid INDEX. Last chance. \nPlease choose INDEX 0 thru INDEX 8");
                 nIndex = int.Parse(Console.ReadLine());
-                Console.WriteLine(numA[numA.Length - nIndex]);
+                Console.WriteLine(numA[nIndex]);
             }
             else
             {
-                Console.WriteLine(numA[numA.Length - nIndex]);
+                Console.WriteLine(numA[nIndex]);
             }
-            
-       
-          
         }
         static void List1()
         {
-            List<int> xList = new List<int>();
-            xList.Add(0);
-            xList.Add(643);
-            xList.Add(6);
-            xList.Add(342);
-            Console.WriteLine("Choose an INDEX from 0 to 3"); //index starts at 0 342, index 1 at 
-            int lIndex = int.Parse(Console.ReadLine());
-            Console.WriteLine(xList[lIndex]);
+            List<string> strList = new List<string>();
+            strList.Add("dog");
+            strList.Add("cat");
+            strList.Add("fish");
+            strList.Add("midget");
+
+            Console.WriteLine("Choose an INDEX from 0 to 3"); 
+            string lIndex = Console.ReadLine();
+            Console.WriteLine(strList[int.Parse(lIndex)]);
             Console.ReadLine();
         }
+
     }
 }

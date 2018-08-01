@@ -1,0 +1,11 @@
+c:\users\tech academy student\Desktop\techacademy\projects\ArrayLoopListExercise\ArrayLoopListExercise\bin\Debug\netcoreapp2.0\ArrayLoopListExercise.deps.json
+c:\users\tech academy student\Desktop\techacademy\projects\ArrayLoopListExercise\ArrayLoopListExercise\bin\Debug\netcoreapp2.0\ArrayLoopListExercise.runtimeconfig.json
+c:\users\tech academy student\Desktop\techacademy\projects\ArrayLoopListExercise\ArrayLoopListExercise\bin\Debug\netcoreapp2.0\ArrayLoopListExercise.runtimeconfig.dev.json
+c:\users\tech academy student\Desktop\techacademy\projects\ArrayLoopListExercise\ArrayLoopListExercise\bin\Debug\netcoreapp2.0\ArrayLoopListExercise.dll
+c:\users\tech academy student\Desktop\techacademy\projects\ArrayLoopListExercise\ArrayLoopListExercise\bin\Debug\netcoreapp2.0\ArrayLoopListExercise.pdb
+c:\users\tech academy student\Desktop\techacademy\projects\ArrayLoopListExercise\ArrayLoopListExercise\obj\Debug\netcoreapp2.0\ArrayLoopListExercise.csprojResolveAssemblyReference.cache
+c:\users\tech academy student\Desktop\techacademy\projects\ArrayLoopListExercise\ArrayLoopListExercise\obj\Debug\netcoreapp2.0\ArrayLoopListExercise.csproj.CoreCompileInputs.cache
+c:\users\tech academy student\Desktop\techacademy\projects\ArrayLoopListExercise\ArrayLoopListExercise\obj\Debug\netcoreapp2.0\ArrayLoopListExercise.AssemblyInfoInputs.cache
+c:\users\tech academy student\Desktop\techacademy\projects\ArrayLoopListExercise\ArrayLoopListExercise\obj\Debug\netcoreapp2.0\ArrayLoopListExercise.AssemblyInfo.cs
+c:\users\tech academy student\Desktop\techacademy\projects\ArrayLoopListExercise\ArrayLoopListExercise\obj\Debug\netcoreapp2.0\ArrayLoopListExercise.dll
+c:\users\tech academy student\Desktop\techacademy\projects\ArrayLoopListExercise\ArrayLoopListExercise\obj\Debug\netcoreapp2.0\ArrayLoopListExercise.pdb

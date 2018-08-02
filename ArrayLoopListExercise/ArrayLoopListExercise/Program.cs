@@ -16,8 +16,16 @@ namespace ArrayLoopListExercise
 
             string uInput;
             string[] strA = new string[] { "think", "work", "do" }; //
-            Console.WriteLine("Please type the prefix \"re\" or \"over\".");
+
+            Console.WriteLine("type a word");
             uInput = Console.ReadLine();
+            strA[0] = uInput;
+            strA[1] = uInput;
+            strA[2] = uInput;
+            //foreach (string addTo in strA)
+            //{
+            //    Console.WriteLine();
+            //}
 
             /*2. Create an infinite loop
              *&
@@ -30,15 +38,15 @@ namespace ArrayLoopListExercise
                     Console.WriteLine(uInput + word);
                 }
             }
-             */
+            */
 
             /*4. Create a loop where the comparison used to determine 
                 * whether to continue iterating the loop is a “<” operator.
                 */
-            for (int i = 0; i <3; i++) 
+            for (int i = 0; i < 3; i++)
                 foreach (string word in strA)
                 {
-                    Console.WriteLine(uInput + word);
+                    Console.WriteLine(strA[0]);
                 }
             Console.WriteLine();
             Console.ReadLine();
@@ -67,26 +75,23 @@ namespace ArrayLoopListExercise
             List<string> sList = new List<string>() { "circle", "square", "triangle", "rectangle" };
             Console.WriteLine("Type in a basic shape.");
             string sInput = Console.ReadLine();
-            bool y = false;
-            for (int z = 0; z < sList.Count; z++)
+            if (sList.Contains(sInput))
             {
-                if (sList[z] == sInput)
+                Console.WriteLine("shape was found");
+                for (int i = 0; i < sList.Count; i++)
                 {
-                    Console.WriteLine(sInput+ " is index " + z);
-                    y = true;
-                /*8. Add code to that above loop that stops it from 
-                    * executing once a match has been found.
-                    */
-                    break; 
-                }
-                if (y == false) 
-                {
-                /*7. Add code to that above loop that tells a user 
-                    * if they put in text that isn’t in the List.
-                    */ 
-                    Console.WriteLine("Thats not a shape.");
+                    Console.WriteLine($"{i} = {sList[i]}");
                 }
             }
+
+            else
+            /*7. Add code to that above loop that tells a user 
+                * if they put in text that isn’t in the List.
+                */
+            {
+                Console.WriteLine("not a shape or not on list.");
+            }
+        
             /*9.Create a List of strings that has at least two 
              * identical strings in the List. Ask the user to select 
              * text to search for in the List.Create a loop that 
@@ -95,31 +100,24 @@ namespace ArrayLoopListExercise
              * on the screen.
              */
             Console.ReadLine();
-            List<string> sList2 = new List<string>() { "apple", "orange", "banana", "banana", "grape","mango", "watermelon" };
+            List<string> sList2 = new List<string>() { "apple", "orange", "banana", "grape","mango", "watermelon" };
             Console.WriteLine("Type in a fruit.");
             string sInput2 = Console.ReadLine();
-            bool y2 = false;
-
-            for (int z2 = 0; z2 < sList2.Count; z2++)
+            if (sList2.Contains(sInput2))
             {
-                if (sList2[z2] == sInput2)
+                Console.WriteLine("fruit was found");
+                for (int i = 0; i < sList.Count; i++)
                 {
-                    Console.WriteLine(sInput2 + " is index " + z2);
-                    y2 = true;
-
-
-                    break;
-                }
-
-                if (y2 == false)
-                {
-                    /*10. Add code to that above loop that tells a 
-                     * user if they put in text that isn’t in the List.
-                     */
-                    Console.WriteLine("Thats not a fruit.");
+                    Console.WriteLine($"{i} = {sList2[i]}");
                 }
             }
-
+            else
+            /*10. Add code to that above loop that tells a 
+             * user if they put in text that isn’t in the List.
+             */
+            { 
+                Console.WriteLine("Thats not a fruit on the list.");
+            }
             /*11.Create a List of strings that has at least two
             * identical strings in the List. Create a foreach loop that 
             * evaluates each item in the list, and displays a message
@@ -129,7 +127,6 @@ namespace ArrayLoopListExercise
             Console.ReadLine();
             List<string> carColors = new List<string>() { "red", "black", "silver", "white", "blue", "gray", "yellow", "white", "blue" };
             List<string> usedColors = new List<string>();
-
                 foreach (string color in carColors)
                 {
                     Console.Write(color);
@@ -138,14 +135,12 @@ namespace ArrayLoopListExercise
                         if (used == color)
                         {
                             Console.Write(" already used");
-
                         }
                     }
-                    Console.WriteLine("");
+                    Console.WriteLine();
                     usedColors.Add(color);
                 }
                 Console.ReadLine();
-           
         }
     }
 }

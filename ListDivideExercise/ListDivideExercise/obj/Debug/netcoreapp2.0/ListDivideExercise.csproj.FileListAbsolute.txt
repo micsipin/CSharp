@@ -1,0 +1,11 @@
+c:\users\tech academy student\Desktop\techacademy\projects\ListDivideExercise\ListDivideExercise\bin\Debug\netcoreapp2.0\ListDivideExercise.deps.json
+c:\users\tech academy student\Desktop\techacademy\projects\ListDivideExercise\ListDivideExercise\bin\Debug\netcoreapp2.0\ListDivideExercise.runtimeconfig.json
+c:\users\tech academy student\Desktop\techacademy\projects\ListDivideExercise\ListDivideExercise\bin\Debug\netcoreapp2.0\ListDivideExercise.runtimeconfig.dev.json
+c:\users\tech academy student\Desktop\techacademy\projects\ListDivideExercise\ListDivideExercise\bin\Debug\netcoreapp2.0\ListDivideExercise.dll
+c:\users\tech academy student\Desktop\techacademy\projects\ListDivideExercise\ListDivideExercise\bin\Debug\netcoreapp2.0\ListDivideExercise.pdb
+c:\users\tech academy student\Desktop\techacademy\projects\ListDivideExercise\ListDivideExercise\obj\Debug\netcoreapp2.0\ListDivideExercise.csprojResolveAssemblyReference.cache
+c:\users\tech academy student\Desktop\techacademy\projects\ListDivideExercise\ListDivideExercise\obj\Debug\netcoreapp2.0\ListDivideExercise.csproj.CoreCompileInputs.cache
+c:\users\tech academy student\Desktop\techacademy\projects\ListDivideExercise\ListDivideExercise\obj\Debug\netcoreapp2.0\ListDivideExercise.AssemblyInfoInputs.cache
+c:\users\tech academy student\Desktop\techacademy\projects\ListDivideExercise\ListDivideExercise\obj\Debug\netcoreapp2.0\ListDivideExercise.AssemblyInfo.cs
+c:\users\tech academy student\Desktop\techacademy\projects\ListDivideExercise\ListDivideExercise\obj\Debug\netcoreapp2.0\ListDivideExercise.dll
+c:\users\tech academy student\Desktop\techacademy\projects\ListDivideExercise\ListDivideExercise\obj\Debug\netcoreapp2.0\ListDivideExercise.pdb

@@ -1,0 +1,11 @@
+c:\users\tech academy student\Desktop\techacademy\projects\ClassAndMethodExercise\ClassAndMethodExercise\obj\Debug\netcoreapp2.0\ClassAndMethodExercise.csprojResolveAssemblyReference.cache
+c:\users\tech academy student\Desktop\techacademy\projects\ClassAndMethodExercise\ClassAndMethodExercise\obj\Debug\netcoreapp2.0\ClassAndMethodExercise.csproj.CoreCompileInputs.cache
+c:\users\tech academy student\Desktop\techacademy\projects\ClassAndMethodExercise\ClassAndMethodExercise\obj\Debug\netcoreapp2.0\ClassAndMethodExercise.AssemblyInfoInputs.cache
+c:\users\tech academy student\Desktop\techacademy\projects\ClassAndMethodExercise\ClassAndMethodExercise\obj\Debug\netcoreapp2.0\ClassAndMethodExercise.AssemblyInfo.cs
+c:\users\tech academy student\Desktop\techacademy\projects\ClassAndMethodExercise\ClassAndMethodExercise\bin\Debug\netcoreapp2.0\ClassAndMethodExercise.deps.json
+c:\users\tech academy student\Desktop\techacademy\projects\ClassAndMethodExercise\ClassAndMethodExercise\bin\Debug\netcoreapp2.0\ClassAndMethodExercise.runtimeconfig.json
+c:\users\tech academy student\Desktop\techacademy\projects\ClassAndMethodExercise\ClassAndMethodExercise\bin\Debug\netcoreapp2.0\ClassAndMethodExercise.runtimeconfig.dev.json
+c:\users\tech academy student\Desktop\techacademy\projects\ClassAndMethodExercise\ClassAndMethodExercise\bin\Debug\netcoreapp2.0\ClassAndMethodExercise.dll
+c:\users\tech academy student\Desktop\techacademy\projects\ClassAndMethodExercise\ClassAndMethodExercise\bin\Debug\netcoreapp2.0\ClassAndMethodExercise.pdb
+c:\users\tech academy student\Desktop\techacademy\projects\ClassAndMethodExercise\ClassAndMethodExercise\obj\Debug\netcoreapp2.0\ClassAndMethodExercise.dll
+c:\users\tech academy student\Desktop\techacademy\projects\ClassAndMethodExercise\ClassAndMethodExercise\obj\Debug\netcoreapp2.0\ClassAndMethodExercise.pdb

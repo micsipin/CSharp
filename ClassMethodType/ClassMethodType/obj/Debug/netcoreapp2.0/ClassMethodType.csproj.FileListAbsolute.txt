@@ -1,0 +1,11 @@
+C:\Users\Tech Academy Student\Desktop\techacademy\projects\ClassMethodType\ClassMethodType\obj\Debug\netcoreapp2.0\ClassMethodType.csprojResolveAssemblyReference.cache
+C:\Users\Tech Academy Student\Desktop\techacademy\projects\ClassMethodType\ClassMethodType\obj\Debug\netcoreapp2.0\ClassMethodType.csproj.CoreCompileInputs.cache
+C:\Users\Tech Academy Student\Desktop\techacademy\projects\ClassMethodType\ClassMethodType\obj\Debug\netcoreapp2.0\ClassMethodType.AssemblyInfoInputs.cache
+C:\Users\Tech Academy Student\Desktop\techacademy\projects\ClassMethodType\ClassMethodType\obj\Debug\netcoreapp2.0\ClassMethodType.AssemblyInfo.cs
+C:\Users\Tech Academy Student\Desktop\techacademy\projects\ClassMethodType\ClassMethodType\bin\Debug\netcoreapp2.0\ClassMethodType.deps.json
+C:\Users\Tech Academy Student\Desktop\techacademy\projects\ClassMethodType\ClassMethodType\bin\Debug\netcoreapp2.0\ClassMethodType.runtimeconfig.json
+C:\Users\Tech Academy Student\Desktop\techacademy\projects\ClassMethodType\ClassMethodType\bin\Debug\netcoreapp2.0\ClassMethodType.runtimeconfig.dev.json
+C:\Users\Tech Academy Student\Desktop\techacademy\projects\ClassMethodType\ClassMethodType\bin\Debug\netcoreapp2.0\ClassMethodType.dll
+C:\Users\Tech Academy Student\Desktop\techacademy\projects\ClassMethodType\ClassMethodType\bin\Debug\netcoreapp2.0\ClassMethodType.pdb
+C:\Users\Tech Academy Student\Desktop\techacademy\projects\ClassMethodType\ClassMethodType\obj\Debug\netcoreapp2.0\ClassMethodType.dll
+C:\Users\Tech Academy Student\Desktop\techacademy\projects\ClassMethodType\ClassMethodType\obj\Debug\netcoreapp2.0\ClassMethodType.pdb

@@ -1,55 +1,38 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Text;
-using System.Linq;
-using System.Threading.Tasks;
 
-namespace ClassMethodType
+namespace ClassMethodTypes
 {
     class Program
     {
-
-        static void Main(string[] args)
+        public static void Main(string[] args)
         {
-            try
+            int x = 3, y = 4;
+            decimal v = 1.3m, w = 1.7m;
+            /* 2. In the Main() method of the console app, instantiate
+             * the class and call the one method, passing in an integer,
+             * such as 12. Then display the result to the screen.
+             */
+            MathClass add = new MathClass();
+            Console.WriteLine(MathClass.Formula(x, y));
+            /*4. In the Main() method of the console app, instantiate 
+             * the class and call the second method, passing in a decimal. 
+             * Display the result to the screen.
+             */ 
+            Console.WriteLine(MathClass.Formula(v,w));
+            /*6. In the Main() method of the console app, instantiate the 
+             * class and call the third method, passing in a string that 
+             * equates to an integer. Display the result to the screen.
+             */ 
+            string z = "10";
+            int parsedZ;
+            if (int.TryParse(z, out parsedZ))
             {
-
-                Console.WriteLine("Type in a number.");
-                int Num1 = Convert.ToInt32(Console.ReadLine());
-                MathOp addDivide = new MathOp();
-                addDivide.Num1 = Num1;
-                int calculateInt = addDivide.AddDivide(Num1);
-                Console.WriteLine("(" + Num1 + "+" + Num1 + ")/" + Num1 + " = " + calculateInt);
-                Console.WriteLine();
-
-                Console.WriteLine("Type in a decimal number.");
-                decimal Num2 = Convert.ToDecimal(Console.ReadLine());
-                MathOp divideAdd = new MathOp();
-                divideAdd.Num2 = Num2;
-                decimal calculateDec = divideAdd.DivideAdd(Num2);
-                Console.WriteLine("(" + Num2 + "/" + Num2 + ")+" + Num2 + " = " + calculateDec);
-                Console.ReadLine();
-
-                Console.WriteLine("Type in a number.");
-                string Num3 = Console.ReadLine();
-                MathOp MultiAddDivide = new MathOp();
-                MultiAddDivide.Num3 = Convert.ToInt32(Num3);
-                decimal calculateString = MultiAddDivide.MultiAddDivide(Convert.ToInt32(Num3));
-                Console.WriteLine("(" + Num3 + "*" + Num3 + ")+" + Num3 + " / " + Num3 + " = " + calculateString);
-
+                Console.WriteLine(MathClass.Formula(parsedZ, x));
             }
-            catch (DivideByZeroException ex)
-            {
-                Console.WriteLine(ex.Message);
-            }
-            catch (FormatException ex)
-            {
-                Console.WriteLine(ex.Message);
-            }
-            finally
-            {
-                Console.ReadLine();
-            }
+                       
+        Console.ReadLine();
+
         }
+
     }
 }

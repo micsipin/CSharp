@@ -10,11 +10,16 @@ namespace OptionMethod
          * takes two integers as parameters. Make one of them optional.
          * Have the method do a math operation and return a integer result.
          */ 
-        public static int Option (int num1, int num2 )
+        //public static int Option (int num1, int num2 )
+        //{
+        //    int results = num1 * Convert.ToInt32(num2);
+        //    return results;
+        //}
+        public static int Option(int num1, int num2 = 40)
         {
             int results = num1 * Convert.ToInt32(num2);
             return results;
         }
-        
+
     }
 }

@@ -1,0 +1,11 @@
+C:\Users\Tech Academy Student\Desktop\techacademy\projects\VoidMethodOverloadStatic\VoidMethodOverloadStatic\bin\Debug\netcoreapp2.0\VoidMethodOverloadStatic.deps.json
+C:\Users\Tech Academy Student\Desktop\techacademy\projects\VoidMethodOverloadStatic\VoidMethodOverloadStatic\bin\Debug\netcoreapp2.0\VoidMethodOverloadStatic.runtimeconfig.json
+C:\Users\Tech Academy Student\Desktop\techacademy\projects\VoidMethodOverloadStatic\VoidMethodOverloadStatic\bin\Debug\netcoreapp2.0\VoidMethodOverloadStatic.runtimeconfig.dev.json
+C:\Users\Tech Academy Student\Desktop\techacademy\projects\VoidMethodOverloadStatic\VoidMethodOverloadStatic\bin\Debug\netcoreapp2.0\VoidMethodOverloadStatic.dll
+C:\Users\Tech Academy Student\Desktop\techacademy\projects\VoidMethodOverloadStatic\VoidMethodOverloadStatic\bin\Debug\netcoreapp2.0\VoidMethodOverloadStatic.pdb
+C:\Users\Tech Academy Student\Desktop\techacademy\projects\VoidMethodOverloadStatic\VoidMethodOverloadStatic\obj\Debug\netcoreapp2.0\VoidMethodOverloadStatic.csprojResolveAssemblyReference.cache
+C:\Users\Tech Academy Student\Desktop\techacademy\projects\VoidMethodOverloadStatic\VoidMethodOverloadStatic\obj\Debug\netcoreapp2.0\VoidMethodOverloadStatic.csproj.CoreCompileInputs.cache
+C:\Users\Tech Academy Student\Desktop\techacademy\projects\VoidMethodOverloadStatic\VoidMethodOverloadStatic\obj\Debug\netcoreapp2.0\VoidMethodOverloadStatic.AssemblyInfoInputs.cache
+C:\Users\Tech Academy Student\Desktop\techacademy\projects\VoidMethodOverloadStatic\VoidMethodOverloadStatic\obj\Debug\netcoreapp2.0\VoidMethodOverloadStatic.AssemblyInfo.cs
+C:\Users\Tech Academy Student\Desktop\techacademy\projects\VoidMethodOverloadStatic\VoidMethodOverloadStatic\obj\Debug\netcoreapp2.0\VoidMethodOverloadStatic.dll
+C:\Users\Tech Academy Student\Desktop\techacademy\projects\VoidMethodOverloadStatic\VoidMethodOverloadStatic\obj\Debug\netcoreapp2.0\VoidMethodOverloadStatic.pdb

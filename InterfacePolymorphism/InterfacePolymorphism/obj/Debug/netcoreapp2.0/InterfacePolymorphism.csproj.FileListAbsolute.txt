@@ -1,0 +1,11 @@
+C:\Users\Tech Academy Student\Desktop\techacademy\projects\InterfacePolymorphism\InterfacePolymorphism\bin\Debug\netcoreapp2.0\InterfacePolymorphism.deps.json
+C:\Users\Tech Academy Student\Desktop\techacademy\projects\InterfacePolymorphism\InterfacePolymorphism\bin\Debug\netcoreapp2.0\InterfacePolymorphism.runtimeconfig.json
+C:\Users\Tech Academy Student\Desktop\techacademy\projects\InterfacePolymorphism\InterfacePolymorphism\bin\Debug\netcoreapp2.0\InterfacePolymorphism.runtimeconfig.dev.json
+C:\Users\Tech Academy Student\Desktop\techacademy\projects\InterfacePolymorphism\InterfacePolymorphism\bin\Debug\netcoreapp2.0\InterfacePolymorphism.dll
+C:\Users\Tech Academy Student\Desktop\techacademy\projects\InterfacePolymorphism\InterfacePolymorphism\bin\Debug\netcoreapp2.0\InterfacePolymorphism.pdb
+C:\Users\Tech Academy Student\Desktop\techacademy\projects\InterfacePolymorphism\InterfacePolymorphism\obj\Debug\netcoreapp2.0\InterfacePolymorphism.csprojResolveAssemblyReference.cache
+C:\Users\Tech Academy Student\Desktop\techacademy\projects\InterfacePolymorphism\InterfacePolymorphism\obj\Debug\netcoreapp2.0\InterfacePolymorphism.csproj.CoreCompileInputs.cache
+C:\Users\Tech Academy Student\Desktop\techacademy\projects\InterfacePolymorphism\InterfacePolymorphism\obj\Debug\netcoreapp2.0\InterfacePolymorphism.AssemblyInfoInputs.cache
+C:\Users\Tech Academy Student\Desktop\techacademy\projects\InterfacePolymorphism\InterfacePolymorphism\obj\Debug\netcoreapp2.0\InterfacePolymorphism.AssemblyInfo.cs
+C:\Users\Tech Academy Student\Desktop\techacademy\projects\InterfacePolymorphism\InterfacePolymorphism\obj\Debug\netcoreapp2.0\InterfacePolymorphism.dll
+C:\Users\Tech Academy Student\Desktop\techacademy\projects\InterfacePolymorphism\InterfacePolymorphism\obj\Debug\netcoreapp2.0\InterfacePolymorphism.pdb

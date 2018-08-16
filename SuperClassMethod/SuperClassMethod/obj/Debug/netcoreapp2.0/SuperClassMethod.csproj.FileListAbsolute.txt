@@ -1,0 +1,11 @@
+C:\Users\Tech Academy Student\Desktop\techacademy\projects\SuperClassMethod\SuperClassMethod\bin\Debug\netcoreapp2.0\SuperClassMethod.deps.json
+C:\Users\Tech Academy Student\Desktop\techacademy\projects\SuperClassMethod\SuperClassMethod\bin\Debug\netcoreapp2.0\SuperClassMethod.runtimeconfig.json
+C:\Users\Tech Academy Student\Desktop\techacademy\projects\SuperClassMethod\SuperClassMethod\bin\Debug\netcoreapp2.0\SuperClassMethod.runtimeconfig.dev.json
+C:\Users\Tech Academy Student\Desktop\techacademy\projects\SuperClassMethod\SuperClassMethod\bin\Debug\netcoreapp2.0\SuperClassMethod.dll
+C:\Users\Tech Academy Student\Desktop\techacademy\projects\SuperClassMethod\SuperClassMethod\bin\Debug\netcoreapp2.0\SuperClassMethod.pdb
+C:\Users\Tech Academy Student\Desktop\techacademy\projects\SuperClassMethod\SuperClassMethod\obj\Debug\netcoreapp2.0\SuperClassMethod.csprojResolveAssemblyReference.cache
+C:\Users\Tech Academy Student\Desktop\techacademy\projects\SuperClassMethod\SuperClassMethod\obj\Debug\netcoreapp2.0\SuperClassMethod.csproj.CoreCompileInputs.cache
+C:\Users\Tech Academy Student\Desktop\techacademy\projects\SuperClassMethod\SuperClassMethod\obj\Debug\netcoreapp2.0\SuperClassMethod.AssemblyInfoInputs.cache
+C:\Users\Tech Academy Student\Desktop\techacademy\projects\SuperClassMethod\SuperClassMethod\obj\Debug\netcoreapp2.0\SuperClassMethod.AssemblyInfo.cs
+C:\Users\Tech Academy Student\Desktop\techacademy\projects\SuperClassMethod\SuperClassMethod\obj\Debug\netcoreapp2.0\SuperClassMethod.dll
+C:\Users\Tech Academy Student\Desktop\techacademy\projects\SuperClassMethod\SuperClassMethod\obj\Debug\netcoreapp2.0\SuperClassMethod.pdb

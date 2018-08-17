@@ -1,0 +1,11 @@
+C:\Users\Tech Academy Student\Desktop\techacademy\projects\OverloadingOperator\OverloadingOperator\bin\Debug\netcoreapp2.0\OverloadingOperator.deps.json
+C:\Users\Tech Academy Student\Desktop\techacademy\projects\OverloadingOperator\OverloadingOperator\bin\Debug\netcoreapp2.0\OverloadingOperator.runtimeconfig.json
+C:\Users\Tech Academy Student\Desktop\techacademy\projects\OverloadingOperator\OverloadingOperator\bin\Debug\netcoreapp2.0\OverloadingOperator.runtimeconfig.dev.json
+C:\Users\Tech Academy Student\Desktop\techacademy\projects\OverloadingOperator\OverloadingOperator\bin\Debug\netcoreapp2.0\OverloadingOperator.dll
+C:\Users\Tech Academy Student\Desktop\techacademy\projects\OverloadingOperator\OverloadingOperator\bin\Debug\netcoreapp2.0\OverloadingOperator.pdb
+C:\Users\Tech Academy Student\Desktop\techacademy\projects\OverloadingOperator\OverloadingOperator\obj\Debug\netcoreapp2.0\OverloadingOperator.csprojResolveAssemblyReference.cache
+C:\Users\Tech Academy Student\Desktop\techacademy\projects\OverloadingOperator\OverloadingOperator\obj\Debug\netcoreapp2.0\OverloadingOperator.csproj.CoreCompileInputs.cache
+C:\Users\Tech Academy Student\Desktop\techacademy\projects\OverloadingOperator\OverloadingOperator\obj\Debug\netcoreapp2.0\OverloadingOperator.AssemblyInfoInputs.cache
+C:\Users\Tech Academy Student\Desktop\techacademy\projects\OverloadingOperator\OverloadingOperator\obj\Debug\netcoreapp2.0\OverloadingOperator.AssemblyInfo.cs
+C:\Users\Tech Academy Student\Desktop\techacademy\projects\OverloadingOperator\OverloadingOperator\obj\Debug\netcoreapp2.0\OverloadingOperator.dll
+C:\Users\Tech Academy Student\Desktop\techacademy\projects\OverloadingOperator\OverloadingOperator\obj\Debug\netcoreapp2.0\OverloadingOperator.pdb

@@ -8,12 +8,10 @@ namespace OverloadingOperator
 {
     class Program
     {
-        static void Main(string[] args)
+       static void Main(string[] args)
         {
-            Employee emp = new Employee() { FirstName = "Sample", LastName = "Student" };
-            Employee emp2 = new Employee() { FirstName = "Sample2", LastName = "Student2" };
-            Employee.ID = 90210;
-            Employee.ID = 90028;
+            Employee emp = new Employee() { FirstName = "Sample", LastName = "Student", ID = 90210 };
+            Employee emp2 = new Employee() { FirstName = "Sample2", LastName = "Student2", ID = 90028 };
             emp.SayName();
             emp2.SayName();
             Console.WriteLine(emp == emp2);

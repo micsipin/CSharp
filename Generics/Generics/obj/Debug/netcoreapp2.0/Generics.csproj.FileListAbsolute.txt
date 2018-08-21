@@ -1,0 +1,11 @@
+C:\Users\Tech Academy Student\Desktop\techacademy\projects\Generics\Generics\bin\Debug\netcoreapp2.0\Generics.deps.json
+C:\Users\Tech Academy Student\Desktop\techacademy\projects\Generics\Generics\bin\Debug\netcoreapp2.0\Generics.runtimeconfig.json
+C:\Users\Tech Academy Student\Desktop\techacademy\projects\Generics\Generics\bin\Debug\netcoreapp2.0\Generics.runtimeconfig.dev.json
+C:\Users\Tech Academy Student\Desktop\techacademy\projects\Generics\Generics\bin\Debug\netcoreapp2.0\Generics.dll
+C:\Users\Tech Academy Student\Desktop\techacademy\projects\Generics\Generics\bin\Debug\netcoreapp2.0\Generics.pdb
+C:\Users\Tech Academy Student\Desktop\techacademy\projects\Generics\Generics\obj\Debug\netcoreapp2.0\Generics.csprojResolveAssemblyReference.cache
+C:\Users\Tech Academy Student\Desktop\techacademy\projects\Generics\Generics\obj\Debug\netcoreapp2.0\Generics.csproj.CoreCompileInputs.cache
+C:\Users\Tech Academy Student\Desktop\techacademy\projects\Generics\Generics\obj\Debug\netcoreapp2.0\Generics.AssemblyInfoInputs.cache
+C:\Users\Tech Academy Student\Desktop\techacademy\projects\Generics\Generics\obj\Debug\netcoreapp2.0\Generics.AssemblyInfo.cs
+C:\Users\Tech Academy Student\Desktop\techacademy\projects\Generics\Generics\obj\Debug\netcoreapp2.0\Generics.dll
+C:\Users\Tech Academy Student\Desktop\techacademy\projects\Generics\Generics\obj\Debug\netcoreapp2.0\Generics.pdb

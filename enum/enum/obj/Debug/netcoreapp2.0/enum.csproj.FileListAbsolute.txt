@@ -1,0 +1,11 @@
+C:\Users\Tech Academy Student\Desktop\techacademy\projects\enum\enum\bin\Debug\netcoreapp2.0\enum.deps.json
+C:\Users\Tech Academy Student\Desktop\techacademy\projects\enum\enum\bin\Debug\netcoreapp2.0\enum.runtimeconfig.json
+C:\Users\Tech Academy Student\Desktop\techacademy\projects\enum\enum\bin\Debug\netcoreapp2.0\enum.runtimeconfig.dev.json
+C:\Users\Tech Academy Student\Desktop\techacademy\projects\enum\enum\bin\Debug\netcoreapp2.0\enum.dll
+C:\Users\Tech Academy Student\Desktop\techacademy\projects\enum\enum\bin\Debug\netcoreapp2.0\enum.pdb
+C:\Users\Tech Academy Student\Desktop\techacademy\projects\enum\enum\obj\Debug\netcoreapp2.0\enum.csprojResolveAssemblyReference.cache
+C:\Users\Tech Academy Student\Desktop\techacademy\projects\enum\enum\obj\Debug\netcoreapp2.0\enum.csproj.CoreCompileInputs.cache
+C:\Users\Tech Academy Student\Desktop\techacademy\projects\enum\enum\obj\Debug\netcoreapp2.0\enum.AssemblyInfoInputs.cache
+C:\Users\Tech Academy Student\Desktop\techacademy\projects\enum\enum\obj\Debug\netcoreapp2.0\enum.AssemblyInfo.cs
+C:\Users\Tech Academy Student\Desktop\techacademy\projects\enum\enum\obj\Debug\netcoreapp2.0\enum.dll
+C:\Users\Tech Academy Student\Desktop\techacademy\projects\enum\enum\obj\Debug\netcoreapp2.0\enum.pdb

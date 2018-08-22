@@ -11,7 +11,7 @@ namespace Generics
     {
 
         public List<T> Things { get; set; }
-
+        public Employee<T>[] things { get; set; }
         public static bool employee<T>  (T Value1, T Value2)
         {
             return Value1.Equals(Value2);

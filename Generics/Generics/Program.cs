@@ -28,13 +28,14 @@ namespace Generics
             emp01 = new Employee<int>() { FirstName = "Sample2", LastName = "Student2", ID = 90028 };
 
             emp01.SayName();
-            emp01.Things = new List<int>(new int[] { 9, 0, 0, 2, 8 });
+            emp01.Things = new List<int>() { 9,0,0,2,8 };
             foreach (int Things  in emp01.Things)
             {
                 Console.WriteLine(Things);
             }
             emp00.SayName();
-            emp00.Things = new List<string>(new string[] { "Nine", "Zero", "Two", "One", "Zero" });
+            //Employee<string>[] things = new Employee<string>[5]; {  "Nine", "Zero", "Two" ,"One", "Zero" ];
+            emp00.Things = new List<string>() { "Nine", "Zero", "Two", "One", "Zero" };
             foreach (string Things in emp00.Things)
             {
                 Console.WriteLine(Things);

@@ -1,0 +1,11 @@
+c:\users\tech academy student\Desktop\techacademy\projects\Lambda\Lambda\bin\Debug\netcoreapp2.0\Lambda.deps.json
+c:\users\tech academy student\Desktop\techacademy\projects\Lambda\Lambda\bin\Debug\netcoreapp2.0\Lambda.runtimeconfig.json
+c:\users\tech academy student\Desktop\techacademy\projects\Lambda\Lambda\bin\Debug\netcoreapp2.0\Lambda.runtimeconfig.dev.json
+c:\users\tech academy student\Desktop\techacademy\projects\Lambda\Lambda\bin\Debug\netcoreapp2.0\Lambda.dll
+c:\users\tech academy student\Desktop\techacademy\projects\Lambda\Lambda\bin\Debug\netcoreapp2.0\Lambda.pdb
+c:\users\tech academy student\Desktop\techacademy\projects\Lambda\Lambda\obj\Debug\netcoreapp2.0\Lambda.csprojResolveAssemblyReference.cache
+c:\users\tech academy student\Desktop\techacademy\projects\Lambda\Lambda\obj\Debug\netcoreapp2.0\Lambda.csproj.CoreCompileInputs.cache
+c:\users\tech academy student\Desktop\techacademy\projects\Lambda\Lambda\obj\Debug\netcoreapp2.0\Lambda.AssemblyInfoInputs.cache
+c:\users\tech academy student\Desktop\techacademy\projects\Lambda\Lambda\obj\Debug\netcoreapp2.0\Lambda.AssemblyInfo.cs
+c:\users\tech academy student\Desktop\techacademy\projects\Lambda\Lambda\obj\Debug\netcoreapp2.0\Lambda.dll
+c:\users\tech academy student\Desktop\techacademy\projects\Lambda\Lambda\obj\Debug\netcoreapp2.0\Lambda.pdb

@@ -1,0 +1,7 @@
+C:\Users\Tech Academy Student\Desktop\techacademy\projects\LambdaJoeList\LambdaJoeList\bin\Debug\LambdaJoeList.exe.config
+C:\Users\Tech Academy Student\Desktop\techacademy\projects\LambdaJoeList\LambdaJoeList\bin\Debug\LambdaJoeList.exe
+C:\Users\Tech Academy Student\Desktop\techacademy\projects\LambdaJoeList\LambdaJoeList\bin\Debug\LambdaJoeList.pdb
+C:\Users\Tech Academy Student\Desktop\techacademy\projects\LambdaJoeList\LambdaJoeList\obj\Debug\LambdaJoeList.csprojResolveAssemblyReference.cache
+C:\Users\Tech Academy Student\Desktop\techacademy\projects\LambdaJoeList\LambdaJoeList\obj\Debug\LambdaJoeList.csproj.CoreCompileInputs.cache
+C:\Users\Tech Academy Student\Desktop\techacademy\projects\LambdaJoeList\LambdaJoeList\obj\Debug\LambdaJoeList.exe
+C:\Users\Tech Academy Student\Desktop\techacademy\projects\LambdaJoeList\LambdaJoeList\obj\Debug\LambdaJoeList.pdb

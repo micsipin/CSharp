@@ -14,7 +14,8 @@ namespace StreamWriterNum
             string uInput = Console.ReadLine();
             
 
-            File.WriteAllText(@"C:\\Users\\Tech Academy Student\\Desktop\\log.txt", uInput);
+            //File.WriteAllText(@"C:\\Users\\Tech Academy Student\\Desktop\\log.txt", uInput);
+            //using GetFolderPath for universal windows user directory save path
             string docPath = Environment.GetFolderPath(Environment.SpecialFolder.MyDocuments);
 
             using (StreamWriter outputFile = new StreamWriter(Path.Combine(docPath, "consoleLogged.txt")))

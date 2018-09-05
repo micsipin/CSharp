@@ -39,9 +39,21 @@ namespace ConstructorChaining1
 
     class Program
     {
+        const string constV = "Const value";
+       
         static void Main(string[] args)
         {
-            B b = new B();
+            Console.WriteLine(constV);
+            var dict = new Dictionary<string, int>();
+            dict.Add("var dictionary item A", 1);
+            dict.Add("var dictionary item B", 2);
+            dict.Add("var dictionary item C", 3);
+            foreach (KeyValuePair<string,int> item in dict)
+            {
+                Console.WriteLine(item.Key, item.Value);
+            }
+            
+            //B b = new B();
             B b2 = new B("param 1", "param 2");
             Console.ReadLine();
         }

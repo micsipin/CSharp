@@ -1,0 +1,7 @@
+C:\Users\Tech Academy Student\Desktop\techacademy\projects\DateTime\DateTime\obj\Debug\DateTime.csprojResolveAssemblyReference.cache
+C:\Users\Tech Academy Student\Desktop\techacademy\projects\DateTime\DateTime\obj\Debug\DateTime.csproj.CoreCompileInputs.cache
+C:\Users\Tech Academy Student\Desktop\techacademy\projects\DateTime\DateTime\bin\Debug\DateTime.exe.config
+C:\Users\Tech Academy Student\Desktop\techacademy\projects\DateTime\DateTime\bin\Debug\DateTime.exe
+C:\Users\Tech Academy Student\Desktop\techacademy\projects\DateTime\DateTime\bin\Debug\DateTime.pdb
+C:\Users\Tech Academy Student\Desktop\techacademy\projects\DateTime\DateTime\obj\Debug\DateTime.exe
+C:\Users\Tech Academy Student\Desktop\techacademy\projects\DateTime\DateTime\obj\Debug\DateTime.pdb

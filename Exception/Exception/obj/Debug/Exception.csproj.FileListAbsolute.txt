@@ -1,0 +1,7 @@
+C:\Users\Tech Academy Student\Desktop\techacademy\projects\Exception\Exception\bin\Debug\Exception.exe.config
+C:\Users\Tech Academy Student\Desktop\techacademy\projects\Exception\Exception\bin\Debug\Exception.exe
+C:\Users\Tech Academy Student\Desktop\techacademy\projects\Exception\Exception\bin\Debug\Exception.pdb
+C:\Users\Tech Academy Student\Desktop\techacademy\projects\Exception\Exception\obj\Debug\Exception.csprojResolveAssemblyReference.cache
+C:\Users\Tech Academy Student\Desktop\techacademy\projects\Exception\Exception\obj\Debug\Exception.csproj.CoreCompileInputs.cache
+C:\Users\Tech Academy Student\Desktop\techacademy\projects\Exception\Exception\obj\Debug\Exception.exe
+C:\Users\Tech Academy Student\Desktop\techacademy\projects\Exception\Exception\obj\Debug\Exception.pdb
